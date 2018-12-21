@@ -1,0 +1,4 @@
+.chart-title {
+    -fx-text-fill: #e5e22c;
+    -fx-font-family: "Bauhaus 93";
+}
